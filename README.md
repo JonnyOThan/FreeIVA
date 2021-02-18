@@ -1,9 +1,9 @@
 -------------------------------------------------------------
  Free IVA
- Author:    pizzaoverhead
- Version:   0.0.5
- Date:      2019-02-06
- KSP:       1.6.1
+ Author:    JonnyOThan, pizzaoverhead
+ Version:   0.1.0
+ Date:      2021-02-18
+ KSP:       1.10.1
 
  Thread:    http://forum.kerbalspaceprogram.com/threads/131439
  Licence:   MIT - http://opensource.org/licenses/MIT
@@ -32,6 +32,10 @@ Bugs	Yes
 
 Version history
 ---------------
+
+0.1.0 (2021-02-18)
+- Recompiling for KSP 1.10.1
+
 0.0.5 (2019-01-28)
 - Added colliders to Mobile Processing Lab. It should now be possible to move around inside this part without floating through the vessel.
 - Added ability to open and close hatches in Mk. 1 spaceplane parts.

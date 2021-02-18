@@ -444,12 +444,17 @@ namespace FreeIva
             return hatch;
         }
 
-        /*public void Destroy()
+		internal static void InitialiseAllHatchesClosed()
+		{
+			// huh?
+		}
+
+		/*public void Destroy()
         {
             cylinder.DestroyGameObject();
         }*/
 
-        /*public static void PositionHole()
+		/*public static void PositionHole()
         {
             cylinder.transform.localPosition = new Vector3(0f, -0.6f, 0f);
             cylinder.transform.localScale = Scale;
@@ -459,5 +464,5 @@ namespace FreeIva
             Debug.Log("                       to " + cylinder.transform.localPosition);
             cylinder.transform.localScale = new Vector3(hatchScaleX, hatchScaleY, hatchScaleZ);* /
         }*/
-    }
+	}
 }
